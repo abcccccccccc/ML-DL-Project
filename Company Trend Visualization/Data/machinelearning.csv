@@ -1,0 +1,590 @@
+Year,직무,보유기술,JAVA_JSP,Python_R,SQL,HTML_CSS_JQuery,안드로이드_IOS_플랫폼_Flutter,서버_시스템_네트워크_사물인터넷_DBMS,CATIA_CAD
+2022,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2022,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2022,웹(Web)개발자,"JAVA,HTML, CSS, JSP ",True,False,False,True,False,False,False
+2021,서버/웹/데이터 엔지니어,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,Python,False,True,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, HTML",True,False,False,True,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, HTML",True,False,False,True,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"Python,R ",False,True,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, HTML",True,False,False,True,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"Python,R ",False,True,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,앱(App)개발자,"안드로이드, IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"Python,R ",False,True,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,데이터 분석&연구,"Python,R ",False,True,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2021,웹(Web)개발자,"Python,JAVA,",True,True,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"안드로이드,",False,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"Python,JAVA,",True,True,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2021,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,"안드로이드,",False,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,서버/웹/데이터 엔지니어,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"시스템, 네트워크, DBMS, JAVA",True,False,False,False,False,True,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,"JAVA, JSP, JQuery",True,False,False,True,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,데이터 분석&연구,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2021,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2021,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2021,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2021,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2021,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2021,웹(Web)개발자," , 안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2020,웹(Web)개발자,"JAVA, HTML, CSS, JSP",True,False,False,True,False,False,False
+2020,웹(Web)개발자,"JAVA, HTML, CSS, JSP",True,False,False,True,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,웹(Web)개발자,"JAVA, HTML, CSS, JSP",True,False,False,True,False,False,False
+2020,웹(Web)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,Python ,False,True,False,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,앱(App)개발자,"안드로이드,IOS",False,False,False,False,True,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"HTML, CSS, JSP ",True,False,False,True,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,웹(Web)개발자,"안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,Python ,False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2020,웹(Web)개발자,"Python, R",False,True,False,False,False,False,False
+2020,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"Python, JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,데이터 분석&연구,Python ,False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"HTML, CSS, JSP",True,False,False,True,False,False,False
+2020,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,Flutter,False,False,False,False,True,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,데이터 분석&연구,"Python, JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"HTML, CSS, JSP ,JAVA",True,False,False,True,False,False,False
+2020,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2020,웹(Web)개발자,"JAVA, Flutter",True,False,False,False,True,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python, R",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python, R",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python, R",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2020,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2020,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2019,앱(App)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2020,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,웹(Web)개발자,"Flutter , 안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2019,웹(Web)개발자,"HTML, CSS, JSP ,JAVA",True,False,False,True,False,False,False
+2019,웹(Web)개발자,"Flutter , 안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2019,데이터 분석&연구,"Flutter , 안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2019,데이터 분석&연구,"Python, R",False,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"Python, R ",False,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버 ",False,False,False,False,False,True,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,"Python, R ",False,True,False,False,False,False,False
+2019,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,앱(App)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,"JAVA, JSP, JQuery",True,False,False,True,False,False,False
+2019,웹(Web)개발자,"JAVA, JSP, JQuery",True,False,False,True,False,False,False
+2019,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버 ",False,False,False,False,False,True,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버 ",False,False,False,False,False,True,False
+2019,데이터 분석&연구,"JAVA,Python ",True,True,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,Flutter,False,False,False,False,True,False,False
+2019,웹(Web)개발자,"JAVA, JSP, JQuery",True,False,False,True,False,False,False
+2019,웹(Web)개발자,"JAVA, JSP, JQuery",True,False,False,True,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,"네트워크, 서버",False,False,False,False,False,True,False
+2019,서버/웹/데이터 엔지니어,"네트워크, 서버",False,False,False,False,False,True,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2019,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2019,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,Python,False,True,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA ,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python, R ",True,True,True,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2018,서버/웹/데이터 엔지니어,JAVA ,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"안드로이드, IOS, JAVA, HTML",True,False,False,True,True,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2018,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2018,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA ,True,False,False,False,False,False,False
+2017,데이터 분석&연구,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,웹(Web)개발자,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,데이터 분석&연구,"JAVA, JSP, SQL, Python",True,True,True,False,False,False,False
+2017,서버/웹/데이터 엔지니어,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,JAVA,True,False,False,False,False,False,False
+2017,앱(App)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2017,웹(Web)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2017,앱(App)개발자,"JAVA, HTML",True,False,False,True,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2017,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,JAVA,True,False,False,False,False,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2016,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,서버/웹/데이터 엔지니어,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
+2015,웹(Web)개발자,"JAVA, 안드로이드",True,False,False,False,True,False,False
